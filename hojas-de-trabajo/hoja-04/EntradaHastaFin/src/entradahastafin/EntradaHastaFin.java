@@ -9,7 +9,7 @@ public class EntradaHastaFin {
         Scanner scanner = new Scanner(System.in);
         String elemento = "";
         
-        System.out.println("Ingrese elementos `fin´ para cerrar sesion ");
+        System.out.println("Ingrese elementos `fin´fin para cerrar sesion ");
         
         while (!elemento.equalsIgnoreCase("fin")){
             System.out.print("> ");
